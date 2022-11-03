@@ -1,0 +1,51 @@
+// Constructor Function
+
+// Clonando Objetos
+
+// Exercicio de Constructor Function
+
+// Factory Functions
+
+// For In
+
+// For of
+
+// Maximo entre dois valores
+
+// Medidor de velocidade
+
+// Objetos
+
+// Arrays
+
+// Functions
+
+// Types Functions
+
+// Operador Ternario
+
+// Projeto trocando valores
+
+// If Else
+
+// Switch Case
+
+// Laço for && Loop For
+
+// Add novos elementos
+
+// Encontrar novos elementos
+
+// Remover elementos
+
+// Dividir elementos
+
+// Dividir Arrays
+
+// Combinar Arrays
+
+// Arrow Functions
+
+// Spread
+
+// Join
